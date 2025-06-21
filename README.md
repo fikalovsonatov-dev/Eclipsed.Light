@@ -7,6 +7,7 @@ _Simple Dead by Daylight unlocker made by Eclipsed_
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
+- [Video Guide](#video)
 
 ## Quick Description
 - Unlock all Cosmetics
@@ -39,3 +40,6 @@ Eclipsed.Light is a very **Light** version of [Eclipsed.top](https://eclipsed.to
 
 ## Support
 If you encounter any issues or have any questions, please open an issue in the [issues page](https://github.com/EclipsedDBD/Eclipsed.Light/issues) or contact us through [Discord](https://discord.gg/eclipsedtop).
+
+## Video
+A quick Tutorial on how to set it up and use it found on our [Youtube](https://www.youtube.com/watch?v=TwivCHHInb0).
